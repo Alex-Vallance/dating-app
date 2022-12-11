@@ -44,3 +44,13 @@ Remember the authentication.
 To swipe a user they must provide the *profile_id* and 'YES' or 'NO'
 
 If both users swipe 'YES', they will be matched and the response will have 'matched' and the profile id of the user they are matched with
+
+### What's next?
+If I were to continue with this project what would come next?
+- I would love to get some automated tests to ensure that the existing functionality is reliable moving forward
+- Adding new features like:
+ - user getting their own profile info
+ - updating profile
+ - getting matches
+ - sending messages
+ - report button (safety is always important when allowing for user interaction on platform)
