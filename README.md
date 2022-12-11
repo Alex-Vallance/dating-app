@@ -1,11 +1,11 @@
-#My Dating App
-###- Alex Vallance
+# My Dating App
+### - Alex Vallance
 
-###Intro
+### Intro
 This is a simple dating app api which allows you register random users.
 Once logged in, these users can get profiles of other users they might be interested in and 'swipe' indicating their interest.
 
-###Setup
+### Setup
 Open docker. Run **docker-compose build** and **docker-compose up**
 
 Using postman, import the included in resources/DatingApp.postman_collection.json
